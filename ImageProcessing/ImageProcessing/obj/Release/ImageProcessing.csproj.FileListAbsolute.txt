@@ -1,0 +1,35 @@
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\bin\Release\ImageProcessing.exe.config
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\bin\Release\ImageProcessing.exe
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\bin\Release\ImageProcessing.pdb
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.MainForm.resources
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.ProgressBarForm.resources
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.Properties.Resources.resources
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.exe
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.pdb
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\bin\Release\ImageProcessing.exe.config
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\bin\Release\ImageProcessing.exe
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\bin\Release\ImageProcessing.pdb
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\bin\Release\tr-TR\ImageProcessing.resources.dll
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\bin\Release\zh-TW\ImageProcessing.resources.dll
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.BitDepth.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.BitPlane.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.DisplayForm.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.MainForm.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.ProgressBarForm.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.Properties.Resources.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.SelectPictureBox.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.StartForm.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.Threshold.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.Transparency.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.StartForm.tr-TR.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.StartForm.zh-TW.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Release\tr-TR\ImageProcessing.resources.dll
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Release\zh-TW\ImageProcessing.resources.dll
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.exe
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Release\ImageProcessing.pdb

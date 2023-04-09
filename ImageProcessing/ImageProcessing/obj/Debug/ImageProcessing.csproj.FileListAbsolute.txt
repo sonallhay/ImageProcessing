@@ -1,0 +1,150 @@
+C:\Users\Chen\source\repos\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\Chen\source\repos\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\Chen\source\repos\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\Chen\source\repos\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\Chen\source\repos\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\Chen\source\repos\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\Chen\source\repos\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Chen\source\repos\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\Chen\source\repos\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\Chen\source\repos\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.MainForm.resources
+C:\Users\Chen\source\repos\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.ProgressBarForm.resources
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.MainForm.resources
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.ProgressBarForm.resources
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.DisplayForm.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.DisplayForm.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.MainForm.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.ProgressBarForm.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.SelectPictureBox.resources
+C:\Users\erica\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.SelectPictureBox.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.BitPlane.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Transparency.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.BitDepth.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Threshold.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.BitDepth.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.BitPlane.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.DisplayForm.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.MainForm.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.ProgressBarForm.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.SelectPictureBox.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Threshold.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Transparency.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.StartForm.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\bin\Debug\tr-TR\ImageProcessing.resources.dll
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\bin\Debug\zh-TW\ImageProcessing.resources.dll
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.StartForm.tr-TR.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.StartForm.zh-TW.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\tr-TR\ImageProcessing.resources.dll
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\zh-TW\ImageProcessing.resources.dll
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.WaterMark.resources
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.BitPlaneReplace.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\bin\Debug\tr-TR\ImageProcessing.resources.dll
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\bin\Debug\zh-TW\ImageProcessing.resources.dll
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.BitPlaneReplace.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.StartForm.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.WaterMark.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.StartForm.tr-TR.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.StartForm.zh-TW.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\tr-TR\ImageProcessing.resources.dll
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\zh-TW\ImageProcessing.resources.dll
+C:\Users\Bill\Desktop\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Ball.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Ball.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.ContrastStretching.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.HistogramOP.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Filter.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.ConnectedComponent.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.MPeg.resources
+C:\Users\Chen\Desktop\IMAGE PROCESS\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Hair.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\bin\Debug\tr-TR\ImageProcessing.resources.dll
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\bin\Debug\zh-TW\ImageProcessing.resources.dll
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojAssemblyReference.cache
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Ball.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.BitDepth.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Hair.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Mpeg.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.BitPlaneReplace.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.BitPlane.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.ConnectedComponent.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.HistogramOP.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.ContrastStretching.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.DisplayForm.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.MainForm.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.ProgressBarForm.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.SelectPictureBox.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.StartForm.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Threshold.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Filter.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.WaterMark.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Transparency.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.StartForm.tr-TR.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.StartForm.zh-TW.resources
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\tr-TR\ImageProcessing.resources.dll
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\zh-TW\ImageProcessing.resources.dll
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\Chen\Desktop\IMAGE PROCESSING\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\bin\Debug\tr-TR\ImageProcessing.resources.dll
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\bin\Debug\zh-TW\ImageProcessing.resources.dll
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojAssemblyReference.cache
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Ball.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.BitDepth.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Hair.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Mpeg.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.BitPlaneReplace.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.BitPlane.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.ConnectedComponent.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.HistogramOP.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.ContrastStretching.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.DisplayForm.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.MainForm.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.ProgressBarForm.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.SelectPictureBox.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.StartForm.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Threshold.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Filter.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.WaterMark.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Transparency.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.StartForm.tr-TR.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.StartForm.zh-TW.resources
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.cache
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.CoreCompileInputs.cache
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\tr-TR\ImageProcessing.resources.dll
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\zh-TW\ImageProcessing.resources.dll
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+D:\中山資訊工程資訊安全碩士班\IMAGE PROCESSING COURSE\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb

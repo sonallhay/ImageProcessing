@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{80BCFE11-51F2-466E-83E4-2FF459939955}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ImageProcessing</RootNamespace>
+    <AssemblyName>ImageProcessing</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ball.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ball.Designer.cs">
+      <DependentUpon>Ball.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BitDepth.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BitDepth.Designer.cs">
+      <DependentUpon>BitDepth.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hair.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hair.Designer.cs">
+      <DependentUpon>Hair.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Huffman.cs" />
+    <Compile Include="Mpeg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mpeg.Designer.cs">
+      <DependentUpon>Mpeg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BitPlaneReplace.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BitPlaneReplace.Designer.cs">
+      <DependentUpon>BitPlaneReplace.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BitPlane.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BitPlane.Designer.cs">
+      <DependentUpon>BitPlane.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConnectedComponent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConnectedComponent.Designer.cs">
+      <DependentUpon>ConnectedComponent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HistogramOP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HistogramOP.Designer.cs">
+      <DependentUpon>HistogramOP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContrastStretching.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ContrastStretching.Designer.cs">
+      <DependentUpon>ContrastStretching.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DisplayForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DisplayForm.Designer.cs">
+      <DependentUpon>DisplayForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="ProgressBar .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProgressBar .Designer.cs">
+      <DependentUpon>ProgressBar .cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SelectPictureBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectPictureBox.Designer.cs">
+      <DependentUpon>SelectPictureBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartForm.Designer.cs">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Threshold.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Threshold.Designer.cs">
+      <DependentUpon>Threshold.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filter.Designer.cs">
+      <DependentUpon>Filter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WaterMark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WaterMark.Designer.cs">
+      <DependentUpon>WaterMark.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transparency.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transparency.Designer.cs">
+      <DependentUpon>Transparency.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Ball.resx">
+      <DependentUpon>Ball.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BitDepth.resx">
+      <DependentUpon>BitDepth.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hair.resx">
+      <DependentUpon>Hair.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mpeg.resx">
+      <DependentUpon>Mpeg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BitPlaneReplace.resx">
+      <DependentUpon>BitPlaneReplace.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BitPlane.resx">
+      <DependentUpon>BitPlane.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConnectedComponent.resx">
+      <DependentUpon>ConnectedComponent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HistogramOP.resx">
+      <DependentUpon>HistogramOP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContrastStretching.resx">
+      <DependentUpon>ContrastStretching.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DisplayForm.resx">
+      <DependentUpon>DisplayForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgressBar .resx">
+      <DependentUpon>ProgressBar .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectPictureBox.resx">
+      <DependentUpon>SelectPictureBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartForm.resx">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartForm.tr-TR.resx">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartForm.zh-TW.resx">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Threshold.resx">
+      <DependentUpon>Threshold.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filter.resx">
+      <DependentUpon>Filter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WaterMark.resx">
+      <DependentUpon>WaterMark.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transparency.resx">
+      <DependentUpon>Transparency.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\colorpalette.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\header.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\histogram.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\red.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\green.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blue.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plane.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plane1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grayscale.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\origineImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bitdepth.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0.3R0.3G0.4B.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grayscale1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\negativeImage.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transparency.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrowDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrowUp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Irregular-shape.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rectangle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bitPlane.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\greyCode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StraightBinaryCode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\select.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\right1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\equal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\threshold.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\threshold1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chicken.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bitplaneslicing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\watermark.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stretch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ball.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\filter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smallarrowDown.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\connection.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\magic-wand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\video.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fast-forward.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\previous.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rewind.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\decode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\female-hair-shape.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
